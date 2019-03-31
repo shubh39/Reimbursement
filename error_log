@@ -1,0 +1,94 @@
+[30-Apr-2018 22:26:27 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/index.php on line 114
+[30-Apr-2018 22:26:27 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/index.php on line 114
+[30-Apr-2018 22:28:21 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/index.php on line 115
+[30-Apr-2018 22:28:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/index.php on line 115
+[30-Apr-2018 22:29:36 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:29:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:29:47 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:29:47 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:29:54 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:29:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:30:14 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:19 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:19 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/admin_employee.php on line 29
+[30-Apr-2018 22:30:24 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:26 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:29 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:32 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/admin_employee.php on line 29
+[30-Apr-2018 22:30:38 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:30:58 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 22:31:06 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:31:06 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/index.php on line 120
+[30-Apr-2018 22:34:33 UTC] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/sanatanv/public_html/reimburse/index.php on line 101
+[30-Apr-2018 22:34:33 UTC] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sanatanv/public_html/reimburse/index.php on line 101
+[30-Apr-2018 22:34:33 UTC] PHP Notice:  Undefined variable: servername in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:34:33 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:34:33 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:34:33 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:34:33 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:35:39 UTC] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/sanatanv/public_html/reimburse/index.php on line 101
+[30-Apr-2018 22:35:39 UTC] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sanatanv/public_html/reimburse/index.php on line 101
+[30-Apr-2018 22:35:39 UTC] PHP Notice:  Undefined variable: host in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:35:39 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:35:39 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:35:39 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:35:39 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/index.php on line 104
+[30-Apr-2018 22:37:30 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:37:30 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:37:30 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:37:30 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:40:25 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:40:25 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:40:25 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:40:25 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/index.php on line 108
+[30-Apr-2018 22:53:34 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header.php on line 93
+[30-Apr-2018 23:11:56 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/admin_employee.php on line 29
+[30-Apr-2018 23:12:02 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/admin_category.php on line 29
+[30-Apr-2018 23:19:19 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 24
+[30-Apr-2018 23:19:19 UTC] PHP Notice:  Trying to get property of non-object in /home/sanatanv/public_html/reimburse/admin_category.php on line 24
+[30-Apr-2018 23:19:19 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 29
+[30-Apr-2018 23:19:19 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 29
+[30-Apr-2018 23:19:30 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 24
+[30-Apr-2018 23:19:30 UTC] PHP Notice:  Trying to get property of non-object in /home/sanatanv/public_html/reimburse/admin_category.php on line 24
+[30-Apr-2018 23:19:30 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 29
+[30-Apr-2018 23:19:30 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 29
+[30-Apr-2018 23:19:51 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 26
+[30-Apr-2018 23:19:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 26
+[30-Apr-2018 23:20:10 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:20:10 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:20:17 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:20:17 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:21:28 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:21:28 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:23:56 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:23:56 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:24:15 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:24:15 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:26:11 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:26:11 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:27:38 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:27:38 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:28:03 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:28:03 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:29:22 UTC] PHP Notice:  Undefined variable: conn in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:29:22 UTC] PHP Fatal error:  Call to a member function close() on null in /home/sanatanv/public_html/reimburse/admin_category.php on line 80
+[30-Apr-2018 23:35:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/admin_employee.php on line 29
+[30-Apr-2018 23:56:11 UTC] PHP Notice:  Undefined variable: new_value in /home/sanatanv/public_html/reimburse/add_category.php on line 119
+[04-Jun-2018 02:16:02 UTC] PHP Notice:  Undefined index: emp_role in /home/sanatanv/public_html/reimburse/header.php on line 5
+[04-Jun-2018 05:32:09 UTC] PHP Notice:  Undefined index: emp_role in /home/sanatanv/public_html/reimburse/header.php on line 5
+[04-Jun-2018 09:02:53 UTC] PHP Notice:  Undefined variable: sql1 in /home/sanatanv/public_html/reimburse/changestatus.php on line 16
+[04-Jun-2018 09:02:53 UTC] PHP Warning:  mysqli::query(): Empty query in /home/sanatanv/public_html/reimburse/changestatus.php on line 16
+[04-Jun-2018 09:04:22 UTC] PHP Notice:  Undefined variable: sql1 in /home/sanatanv/public_html/reimburse/changestatus.php on line 16
+[04-Jun-2018 09:04:22 UTC] PHP Warning:  mysqli::query(): Empty query in /home/sanatanv/public_html/reimburse/changestatus.php on line 16
+[04-Jun-2018 09:05:40 UTC] PHP Notice:  Undefined variable: sql1 in /home/sanatanv/public_html/reimburse/changestatus.php on line 16
+[04-Jun-2018 09:05:40 UTC] PHP Warning:  mysqli::query(): Empty query in /home/sanatanv/public_html/reimburse/changestatus.php on line 16
+[04-Jun-2018 09:18:49 UTC] PHP Notice:  Undefined variable: headers in /home/sanatanv/public_html/reimburse/changestatus.php on line 36
+[04-Jun-2018 09:23:56 UTC] PHP Notice:  Undefined variable: headers in /home/sanatanv/public_html/reimburse/aaa.php on line 28
+[04-Jun-2018 09:26:46 UTC] PHP Notice:  Undefined variable: headers in /home/sanatanv/public_html/reimburse/aaa.php on line 28
+[04-Jun-2018 10:09:36 UTC] PHP Notice:  Undefined index: emp_role in /home/sanatanv/public_html/reimburse/header.php on line 5
+[04-Jun-2018 10:09:40 UTC] PHP Notice:  Undefined index: emp_role in /home/sanatanv/public_html/reimburse/header.php on line 5
+[05-Jun-2018 00:32:50 UTC] PHP Notice:  Undefined index: emp_role in /home/sanatanv/public_html/reimburse/header.php on line 5
+[05-Jun-2018 01:15:29 UTC] PHP Notice:  Undefined variable: new_value in /home/sanatanv/public_html/reimburse/add_category.php on line 122
+[05-Jun-2018 01:24:14 UTC] PHP Notice:  Undefined index: emp_id in /home/sanatanv/public_html/reimburse/header_user.php on line 12
+[05-Jun-2018 05:12:26 UTC] PHP Notice:  Undefined index: emp_role in /home/sanatanv/public_html/reimburse/header.php on line 5
